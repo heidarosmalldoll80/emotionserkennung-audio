@@ -1,6 +1,6 @@
-tensorflow
 numpy
 librosa
 sounddevice
 matplotlib
 PyQt5
+tensorflow
