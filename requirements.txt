@@ -1,0 +1,6 @@
+tensorflow
+numpy
+librosa
+sounddevice
+matplotlib
+PyQt5
